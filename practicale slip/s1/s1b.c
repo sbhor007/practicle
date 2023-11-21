@@ -1,0 +1,1 @@
+// Write a ‘C’ program to evaluate a given polynomial using function. (Use array)
